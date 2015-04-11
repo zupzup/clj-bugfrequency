@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+gymapp/
+www/
+.sass-cache/
+styles/*.css
+native
+tmp_build_flow
